@@ -2,19 +2,127 @@
     "filmes": [
         { 
             "id": 1,
-            "titulo": "Animais Fantásticos: Os Segredos de Dumbledore",
-            "ano": 2022, 
-            "roteiro": "J. K. Rowling",
-            "imagem": "foto.jpg"
+            "titulo": "Akira",
+            "ano": 1988, 
+            "roteiro": "Katsuhiro Otomo",
+            "imagem": "https://img.elo7.com.br/product/original/2C150E0/big-poster-filme-anime-akira-lo001-tamanho-90x60-cm-manga.jpg"
         }, 
         {
-            "titulo": "SONIC 2",
-            "ano": 2022, 
-            "roteiro": "Patrick Casey",
-            "imagem": "foto.jpg",
+            "titulo": "Mortal Kombat",
+            "ano": 1995, 
+            "roteiro": "Paul W. S. Anderson",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BNjY5NTEzZGItMGY3My00NzE4LThkYTUtYjJkNzk3MDBiMWE3XkEyXkFqcGdeQXVyNzg5MDE1MDk@._V1_.jpg",
             "id": 2
+        }, 
+        {
+            "titulo": "Adão Negro",
+            "ano": 2022, 
+            "roteiro": "Adam Sztykiel",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BYzZkOGUwMzMtMTgyNS00YjFlLTg5NzYtZTE3Y2E5YTA5NWIyXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_.jpg",
+            "id": 3
+        },
+        {
+            "titulo": "Pulp Fiction",
+            "ano": 1995,
+            "roteiro": "Quentin Tarantino",
+            "imagem": "https://img.elo7.com.br/product/original/268A58D/big-poster-filme-pulp-fiction-lo001-tamanho-90x60-cm-presente-geek.jpg",
+            "id": 4
+        },
+        {
+            "titulo": "Ghost in the Shell",
+            "ano": 1995,
+            "roteiro": "Mamoru Oshii",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+            "id": 5
         }
         
+    ], 
+    "info": [
+        {
+            "genero": "Ficção Cientifica",
+            "subgenero": "Ação",
+            "id": 1
+        }, 
+        {
+            "genero": "Ação",
+            "subgenero": "Aventura",
+            "id": 2
+        },
+        {
+            "genero": "Aventura",
+            "subgenero": "Ação",
+            "id": 3
+        },
+        {
+            "genero": "Crime", 
+            "subgenero": "Drama",
+            "id": 4 
+        }, 
+        {
+            "genero": "Ação", 
+            "subgenero": "Ficção Cientifica",
+            "id": 5
+        }
+    ],
+    "preco": [ 
+        {
+            "sala": 1,
+            "valor": "R$40",
+            "valorMeia": "R$20",
+            "id": 1
+        },
+        {
+            "sala": 2,
+            "valor": "R$30",
+            "valorMeia": "R$15",
+            "id": 2
+        },
+        {
+            "sala": 3,
+            "valor": "R$50",
+            "valorMeia":"R$25",
+            "id": 3
+        },
+        {
+            "sala": 4,
+            "valor": "R$100",
+            "valorMeia": "R$50",
+            "id": 4
+        }, 
+        {
+            "sala": 5,
+            "valor": "R$10",
+            "valorMeia": "R$5",
+            "id": 5
+        }
+    ],
+    "cinemas": [
+        {
+            "local": "Liberdade",
+            "estado": "SP",
+            "id": 1
+        },
+        {
+            "local": "SENAC - Campo Grande",
+            "estado": "RJ",
+            "id": 2
+        },
+        {
+            "local": "Manaus",
+            "estado": "AM",
+            "id": 3
+        },
+        {
+            "local": "Belo Horizonte",
+            "estado": "MG",
+            "id": 4
+        }, 
+        {
+            "local": "Montenegro",
+            "estado": "RS",
+            "id": 5
+        }
+
     ]
 
 }
