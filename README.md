@@ -12,3 +12,8 @@
 <li><b>cinemas</b> -- informações sobre em quais cinemas os filmes estarão disponíveis.</li>
 </ul>
 <h1>:writing_hand: TECNOLOGIAS USADAS:</h1>
+<ul>
+  <li>JavaScript</li>
+  </ul>
+
+<div align="center"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></div>
