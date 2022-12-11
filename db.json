@@ -32,9 +32,18 @@
             "titulo": "Ghost in the Shell",
             "ano": 1995,
             "roteiro": "Mamoru Oshii",
-            "imagem": "https://m.media-amazon.com/images/M/MV5BYWRiYjQyOGItNzQ1Mi00MGI1LWE3NjItNTg1ZDQwNjUwNDM2XkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+            "imagem": "https://i.pinimg.com/originals/75/d1/57/75d157276e6ed51fbac6770ab54b98e7.jpg",
             "id": 5
+        },
+        {
+            "titulo": "Perfect Blue",
+            "ano": 1997,
+            "roteiro": "Satoshi Kon",
+            "imagem": "https://m.media-amazon.com/images/M/MV5BMmMzOWNhNTYtYmY0My00OGJiLWIzNDUtZWRhNGY0NWFjNzFmXkEyXkFqcGdeQXVyNjUxMDQ0MTg@._V1_.jpg",
+            "id": 6
         }
+
+
         
     ], 
     "info": [
@@ -62,6 +71,11 @@
             "genero": "Ação", 
             "subgenero": "Ficção Cientifica",
             "id": 5
+        },
+        {
+            "genero": "Thriller",
+            "subgenero": "Mistério",
+            "id": 6
         }
     ],
     "preco": [ 
@@ -121,6 +135,11 @@
             "local": "Montenegro",
             "estado": "RS",
             "id": 5
+        },
+        {
+            "local": "Aroe Jari",
+            "estado": "MT",
+            "id": 6
         }
 
     ]
