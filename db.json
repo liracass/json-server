@@ -108,6 +108,12 @@
             "valor": "R$10",
             "valorMeia": "R$5",
             "id": 5
+        },
+        { 
+            "sala":6,
+            "valor": "R$5",
+            "valorMeia": "R$2",
+            "id": 6
         }
     ],
     "cinemas": [
