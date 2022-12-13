@@ -80,34 +80,40 @@
     ],
     "preco": [ 
         {
-            "sala": 1,
+            "sala": "Sala Premium",
             "valor": "R$40",
             "valorMeia": "R$20",
             "id": 1
         },
         {
-            "sala": 2,
+            "sala": "Sala Simples",
             "valor": "R$30",
             "valorMeia": "R$15",
             "id": 2
         },
         {
-            "sala": 3,
+            "sala": "React Plus",
             "valor": "R$50",
             "valorMeia":"R$25",
             "id": 3
         },
         {
-            "sala": 4,
+            "sala": "VIP",
             "valor": "R$100",
             "valorMeia": "R$50",
             "id": 4
         }, 
         {
-            "sala": 5,
+            "sala": "React Basic",
             "valor": "R$10",
             "valorMeia": "R$5",
             "id": 5
+        },
+        { 
+            "sala":"Caverna",
+            "valor": "R$5",
+            "valorMeia": "R$2",
+            "id": 6
         }
     ],
     "cinemas": [
